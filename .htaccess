@@ -1,0 +1,4 @@
+options +MultiViews
+Options -Indexes
+ErrorDocument 403 /403
+ErrorDocument 404 /404

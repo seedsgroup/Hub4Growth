@@ -1,0 +1,2 @@
+<!-- <link rel="stylesheet" type="text/css" href="<?php echo DTABLE_CSS_URL; ?>dataTables.bootstrap.min.css" /> -->
+<link rel="stylesheet" type="text/css" href="<?php echo DTABLE_CSS_URL; ?>jquery.dataTables.min.css" />
